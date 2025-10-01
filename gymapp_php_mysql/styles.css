@@ -1,0 +1,11 @@
+/* styles.css */
+body { font-family: Arial, sans-serif; background:#f6f7fb; color:#222; padding:20px; }
+.container { max-width:1000px; margin:0 auto; background:#fff; padding:18px; border-radius:8px; box-shadow:0 2px 8px rgba(0,0,0,0.08); }
+nav a { margin-right:12px; text-decoration:none; color:#0b5ed7; }
+table { width:100%; border-collapse:collapse; margin-top:10px; }
+th, td { padding:8px; border-bottom:1px solid #e6e6e6; text-align:left; }
+form input, form select, form textarea { padding:8px; width:100%; margin:6px 0 12px; box-sizing:border-box; }
+.btn { display:inline-block; padding:8px 12px; border-radius:6px; text-decoration:none; background:#0b5ed7; color:#fff; }
+.btn.danger { background:#d9534f; }
+.small { font-size:0.9em; color:#666; }
+.header { display:flex; justify-content:space-between; align-items:center; }
